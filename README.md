@@ -1,4 +1,4 @@
-# wireframing
+# Wireframing
 Wireframing is the process of creating a simplified, visual guide that represents the skeletal framework of a digital product, such as a website or mobile application. It outlines the layout, structure, and key elements of each screen or page without focusing on design details like colors, fonts, or images.
 
 # Key Elements in a Wireframe
@@ -114,7 +114,7 @@ The team revised the wireframe to:
 - Final design received positive feedback from customers and helped increase checkout completion rates
 - Developers implemented the change efficiently, as it was clearly documented in the high-fidelity wireframes
 
-## role of wireframing in ensuring a user-friendly design
+## The role of wireframing in ensuring a user-friendly design
 This scenario shows how wireframing helped catch a potential conversion and killing issue early, before code was written.
 By simulating the user journey and getting feedback, the team was able to:
 - Simplify the interface,
