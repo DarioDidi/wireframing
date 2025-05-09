@@ -2,17 +2,17 @@
 Wireframing is the process of creating a simplified, visual guide that represents the skeletal framework of a digital product, such as a website or mobile application. It outlines the layout, structure, and key elements of each screen or page without focusing on design details like colors, fonts, or images.
 
 # Key Elements in a Wireframe
-1. Layout Structure
+1. Layout Structure:
 A clear structure ensures a consistent and intuitive user experience across pages, guiding users’ attention in a logical flow.
-2. Navigation
+2. Navigation:
 Good navigation keeps users oriented and reduces frustration by making it easy to find desired content or features.
 🔍 Example:
 A top navigation bar with links like Home, Browse, My Bookings, and Profile helps users access different parts of a booking site quickly.
-3. Content Placement
+3. Content Placement:
 Effective content placement enhances readability, visual hierarchy, and user engagement.
 🔍 Example:
 Placing property images at the top of a listing page grabs attention, while details like price, amenities, and availability below the fold allow for deeper exploration.
-4. Functionality
+4. Functionality:
 Functional elements show how users will complete tasks—like booking a stay or submitting a message—and help define system behavior.
 🔍 Example:
 A “Book Now” button linked to a date selector and a confirmation form illustrates the steps in the booking flow.
