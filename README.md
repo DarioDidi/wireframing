@@ -84,11 +84,11 @@ Even early wireframes can be shown to users for feedback. This helps the team va
 
 # Wireframing in Practice 
 Example wireframing process for an e-commerce website:
-🎯 Project Overview
-A UX team was working with a client to redesign the checkout process for an e-commerce fashion retailer. The goal was to streamline the user experience to reduce cart abandonment and improve conversions.
+- Project Overview
+   A UX team was working with a client to redesign the checkout process for an e-commerce fashion retailer. The goal was to streamline the user experience to reduce cart abandonment and improve conversions.
 
-🔍 Wireframing Phase
-During the wireframing stage, the team created low-fidelity wireframes of the full checkout flow, including:
+- Wireframing Phase
+   During the wireframing stage, the team created low-fidelity wireframes of the full checkout flow, including:
   Cart summary page
   Shipping and billing details
   Payment options
@@ -96,24 +96,24 @@ During the wireframing stage, the team created low-fidelity wireframes of the fu
 
 These wireframes were tested internally and with a group of real users through usability testing sessions.
 
-🚩 Usability Issue Discovered
-Problem:
-Users expressed confusion during the payment step, where the form asked for shipping and billing addresses on the same page.
-Some users thought the form required duplicate data entry, and others missed the option to copy the shipping address to the billing address.
+- 🚩 Usability Issue Discovered
+   Problem:
+   Users expressed confusion during the payment step, where the form asked for shipping and billing addresses on the same page.
+   Some users thought the form required duplicate data entry, and others missed the option to copy the shipping address to the billing address.
 
-✅ Resolution
+- ✅ Resolution
 The team revised the wireframe to:
   Initially display only the shipping address form
   Include a clearly labeled checkbox: “Billing address same as shipping”
   Reveal the billing form only if the checkbox is unchecked
   This streamlined the page and gave users more control, reducing cognitive load.
 
-📈 Impact on the Final Product
-- Checkout form became more intuitive and less cluttered
-- Usability test participants completed the flow 20–30% faster on average
-- Final design received positive feedback from customers and helped increase checkout completion rates
-- Developers implemented the change efficiently, as it was clearly documented in the high-fidelity wireframes
-
+-  Impact on the Final Product
+   - Checkout form became more intuitive and less cluttered
+   - Usability test participants completed the flow 20–30% faster on average
+   - Final design received positive feedback from customers and helped increase checkout completion rates
+   - Developers implemented the change efficiently, as it was clearly documented in the high-fidelity wireframes
+   
 ## The role of wireframing in ensuring a user-friendly design
 This scenario shows how wireframing helped catch a potential conversion and killing issue early, before code was written.
 By simulating the user journey and getting feedback, the team was able to:
