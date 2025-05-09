@@ -20,28 +20,28 @@ A “Book Now” button linked to a date selector and a confirmation form illust
 # Types of Wireframes.
 
 1. Low-Fidelity Wireframes
-   Description:
-  Simplified, rough sketches of a layout, usually black-and-white. Focuses on structure, content hierarchy, and basic functionality
-  Uses placeholders (e.g., boxes for images, "lorem ipsum" for text)
-  📆 When Used:
+   - Description:
+     Simplified, rough sketches of a layout, usually black-and-white. Focuses on structure, content hierarchy, and basic functionality
+     Uses placeholders (e.g., boxes for images, "lorem ipsum" for text)
+  - When Used:
     Early stages of design (ideation, concept development)
     For brainstorming, collaboration, and quick iterations
     Great for getting early feedback without distractions
-  🧪 Example:
-  A sketch showing a home page layout with rectangles labeled “Logo,” “Nav   Bar,” “Main Image,” and “Call to Action.”
+   - Example:
+     A sketch showing a home page layout with rectangles labeled “Logo,” “Nav   Bar,” “Main Image,” and “Call to Action.”
 
 2. High-Fidelity Wireframes
-   Description:
-  Detailed and polished representations that are closer to the final UI in appearance and behavior.
-  Can include actual content, typography, spacing, and branding.
-  Designed in tools like Figma, Adobe XD, or Sketch
+   -   Description:
+     Detailed and polished representations that are closer to the final UI in appearance and behavior.
+     Can include actual content, typography, spacing, and branding.
+     Designed in tools like Figma, Adobe XD, or Sketch
 
-  📆 When Used:
-    Later stages of design (after structure and flow are finalized)
-    For detailed stakeholder presentations or development handoff
-    Useful in user testing for realistic feedback
-  🧪 Example:
-  A full mockup of a booking form with dropdowns, input fields, error states, and a working calendar widget.
+   -  When Used:
+       Later stages of design (after structure and flow are finalized)
+       For detailed stakeholder presentations or development handoff
+       Useful in user testing for realistic feedback
+  -   Example:
+     A full mockup of a booking form with dropdowns, input fields, error states, and a working calendar widget.
 
 # This ![example wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)
 is an example of a high fidelity wireframe because: 
