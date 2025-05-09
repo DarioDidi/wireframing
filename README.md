@@ -53,18 +53,18 @@ is an example of a high fidelity wireframe because:
 🌐 What Is Figma?
 Figma is a cloud-based design and prototyping tool that allows users to create wireframes, user flows, high-fidelity designs, and interactive prototypes—all in one place. Its real-time collaboration features make it ideal for remote teams and fast-moving design cycles.
 
-🔧 Key Features
-Browser-Based Access: No installation required; works on any platform.
-Real-Time Collaboration: Multiple users can view and edit files simultaneously.
-Built-In Components: Quickly create wireframes using reusable components and libraries.
-Interactive Prototypes: Add links, transitions, and microinteractions to simulate real user flows.
-Version History: Track changes and roll back to earlier iterations easily.
-Commenting and Feedback: Stakeholders can leave feedback directly on the design.
+- 🔧 Key Features
+   - Browser-Based Access: No installation required; works on any platform.
+   - Real-Time Collaboration: Multiple users can view and edit files simultaneously.
+   - Built-In Components: Quickly create wireframes using reusable components and libraries.
+   - Interactive Prototypes: Add links, transitions, and microinteractions to simulate real user flows.
+   - Version History: Track changes and roll back to earlier iterations easily.
+   Commenting and Feedback: Stakeholders can leave feedback directly on the design.
 
-💡 Why Figma Is Great for Wireframing
-Speed and Flexibility: You can quickly sketch out low-fidelity wireframes, then evolve them into detailed prototypes without switching tools.
-Team Alignment: Designers, developers, and product managers can work from the same file, reducing miscommunication.
-Consistency: Design systems and shared styles ensure a consistent UI across screens.
+- 💡 Why Figma Is Great for Wireframing
+   - Speed and Flexibility: You can quickly sketch out low-fidelity wireframes, then evolve them into detailed prototypes without switching tools.
+   - Team Alignment: Designers, developers, and product managers can work from the same file, reducing miscommunication.
+   - Consistency: Design systems and shared styles ensure a consistent UI across screens.
 
 #  Benefits of Wireframing in Software Development 
 It acts as a visual blueprint that ensures clarity, alignment, and efficiency across teams.
